@@ -7,7 +7,7 @@ namespace TwoSum
     {
         static void Main(string[] args)
         {
-            int[] nums = { 3, 2, 4 };
+            int[] nums = { 3, 2, 4, 0, 2, 1 , -2};
             Console.Write("Enter target value: ");
             int target = int.Parse(Console.ReadLine());
             foreach (var item in TwoSum(nums, target))
@@ -26,10 +26,7 @@ namespace TwoSum
                 for (int i = 0; i < nums.Length; i++)
                 {
                     int complement = target - nums[i];
-                    //if (hashMap.ContainsKey(complement))
-                    //{
-                    //    return new int[] { hashMap[complement], i };
-                    //}
+
                     if(numsDictionary.TryGetValue(complement, out int index))
                     {
                         return new[] { index, i };

@@ -10,7 +10,7 @@ C:\Users\Eron\Documents\Git\Daily-LeetCode-Practice\TwoSum\obj\Debug\net5.0\TwoS
 C:\Users\Eron\Documents\Git\Daily-LeetCode-Practice\TwoSum\obj\Debug\net5.0\TwoSum.AssemblyInfo.cs
 C:\Users\Eron\Documents\Git\Daily-LeetCode-Practice\TwoSum\obj\Debug\net5.0\TwoSum.csproj.CoreCompileInputs.cache
 C:\Users\Eron\Documents\Git\Daily-LeetCode-Practice\TwoSum\obj\Debug\net5.0\TwoSum.dll
-C:\Users\Eron\Documents\Git\Daily-LeetCode-Practice\TwoSum\obj\Debug\net5.0\refint\TwoSum.dll
 C:\Users\Eron\Documents\Git\Daily-LeetCode-Practice\TwoSum\obj\Debug\net5.0\TwoSum.pdb
 C:\Users\Eron\Documents\Git\Daily-LeetCode-Practice\TwoSum\obj\Debug\net5.0\TwoSum.genruntimeconfig.cache
 C:\Users\Eron\Documents\Git\Daily-LeetCode-Practice\TwoSum\obj\Debug\net5.0\ref\TwoSum.dll
+C:\Users\Eron\Documents\Git\Daily-LeetCode-Practice\TwoSum\bin\Debug\net5.0\ref\TwoSum.dll
